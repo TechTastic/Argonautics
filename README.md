@@ -7,7 +7,7 @@ The name being a reference to the Argo, Jason, and the Argonauts!
   - Unknown of any issues at the moment but we should probably implement fixes here as well as a PR into Sable once all compat issues are found
 - Modifications
   - Pixie Wand should levitate Sub-Levels
-  - Death Worm Gaulets should pull Sub-Levels
+  - Death Worm Gauntlets should pull Sub-Levels
   - Amphithere Macuehuitl should push Sub-Levels
   - Chain Line should act like Simulated's Rope item
     - Utilizing chains, we could also make certain creatures pull Sub-Levels, though this needs more thought on the push/pull mechanics of such an endeavor
