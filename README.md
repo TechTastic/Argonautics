@@ -4,6 +4,8 @@ The name being a reference to the Argo, Jason, and the Argonauts!
 
 ## Potential Changes
 - Compatibility
+  - Chain Line renders incorrectly on Sub-Levels and breaks due to distance
+  - Dragon Breath targeting Sub-Levels crashes
   - Unknown of any issues at the moment but we should probably implement fixes here as well as a PR into Sable once all compat issues are found
 - Modifications
   - Pixie Wand should levitate Sub-Levels
